@@ -1,0 +1,6 @@
+name: MyAdvancementPlugin
+version: 1.0
+main: com.pokota.CustomAdvancementPlugin
+api-version: '1.21'
+author: pokota
+description: カスタム実績タイトル＆アクションバー表示プラグイン
